@@ -4,13 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<parent>
-		<groupId>org.springframework.boot</groupId>
-		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.4.2</version>
+		<groupId>com.portfolio.luisfmdc</groupId>
+		<artifactId>pom-base-course-management-system</artifactId>
+		<version>1.0.0-SNAPSHOT</version>
 		<relativePath/>
 	</parent>
 
-	<groupId>com.portfolio.luisfmdc</groupId>
 	<artifactId>sboot-cms-service-discovery</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>sboot-cms-service-discovery</name>
